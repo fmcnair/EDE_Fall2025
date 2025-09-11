@@ -22,22 +22,22 @@ Enter answers to the questions just below the >Answer: prompt.
 
 1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
 
-> Answer: 
+> Answer: I have taken several classes that involved the use of data analytics, but mostly in Python. Last semester, I took an applied data analytics class for civil and environmental systems where I used GIS and stastitics to do data analysis. I took a class in the fall of 2024 that was focused on mathematical modeling in R. We didn't do as much data analytics, but that is where most of my R experience comes from. I have never used Git before. 
 
 2. Are there any components of the course about which you feel confident?
 
-> Answer: 
+> Answer: I generally feel confident in my coding ability, I don't have a ton of experience with R, but i have used Python significantly and understand general methods and processes for creating code. I also feel as if I have a good foundation in data analytics. 
 
 3. Are there any components of the course about which you feel apprehensive?
 
-> Answer: 
+> Answer:I feel like using Git may be somewhat of a struggle, just making sure everything is uploaded to the right place. I am more used to just working with everything on my own device and submitting Rmd and pdf files. 
 
 
 ## 2) GitHub
 
 Provide a link below to your forked course repository in GitHub. Make sure you have pulled all recent changes from the course repository and that you have updated your course README file, committed those changes, and pushed them to your GitHub account. 
 
-> Answer: https://github.com/ENV872/EDE_Fall2025
+> Answer: https://github.com/fmcnair/EDE_Fall2025
 
 ## 3) Knitting
 When you have completed this document, click the `knit` button.This should produce a PDF copy of your markdown document. Submit this PDF to Canvas 
