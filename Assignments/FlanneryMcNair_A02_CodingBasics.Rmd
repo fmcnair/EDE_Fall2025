@@ -33,10 +33,14 @@ This exercise accompanies the lessons/labs in Environmental Data Analytics on co
 ```{r basics 1}
 #1. 
 seq_1 <- seq(1, 55, 5) #creating sequence
+seq_1
 
 #2. 
 seq_1_mean <- mean(seq_1) #finding the mean of the sequence
 seq_1_median <- median(seq_1) #finding the median of the sequence
+
+cat("Mean:", seq_1_mean)
+cat("Median:", seq_1_median)
 
 #3. 
 seq_1_mean > seq_1_median #is the mean greater than the median?
@@ -95,8 +99,9 @@ if_function(x)
 
 #11. Create a function using ifelse()
 elseif_function <- function(x){
-  ifelse (x > 50, print("Pass"), print('Fail')) 
+  ifelse (x > 50, ("Pass"), ('Fail'))
 }
+
 elseif_function(x)
 
 #12a. Run the first function with the value 52.5
