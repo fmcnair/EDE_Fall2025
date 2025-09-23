@@ -39,9 +39,11 @@ library(lubridate)
 
 getwd()
 
-Neonics <- read.csv(file = '/Users/flannerymcnair/Documents/ENVIRON 872L/872 Class Documents/Data/Raw/ECOTOX_Neonicotinoids_Insects_raw.csv', stringsAsFactors = TRUE)
+Neonics <- read.csv(file = '/Users/flannerymcnair/Documents/ENVIRON 872L/872 Class Documents/Data/Raw/ECOTOX_Neonicotinoids_Insects_raw.csv', 
+                    stringsAsFactors = TRUE)
 
-Litter <- read.csv(file = '/Users/flannerymcnair/Documents/ENVIRON 872L/872 Class Documents/Data/Raw/NEON_NIWO_Litter_massdata_2018-08_raw.csv', stringsAsFactors = TRUE)
+Litter <- read.csv(file = '/Users/flannerymcnair/Documents/ENVIRON 872L/872 Class Documents/Data/Raw/NEON_NIWO_Litter_massdata_2018-08_raw.csv', 
+                   stringsAsFactors = TRUE)
 
 ```
 
